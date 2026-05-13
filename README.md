@@ -38,7 +38,7 @@
                 <img src="https://img.shields.io/badge/FrontEnd-black?style=for-the-badge"/>
             </td>
             <td>
-                <a href="https://github.com/HakuGarcia/HTML5-CSS3.git">HTML5-CSS3</a>
+                <a href="https://github.com/HakuAkai/HTML5_CSS3.git">HTML5_CSS3</a>
             </td>
             <td>
                 <a href="https://github.com/HakuGarcia/Front-End.git">Front-End</a>
